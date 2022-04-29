@@ -1064,20 +1064,20 @@ blockquote h6 {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     /*background-color: darken( var(--color-primary), 20% );
     border-color: darken( var(--color-primary), 20% );*/
-    background-color: #E1769C;
-    border-color: #E1769C;
+    background-color: #D68E95;
+    border-color: #D68E95;
     box-shadow: .125rem .1875rem .9375rem rgba(255, 255, 255, .8);
 }
 
 .btn-primary {
-    background-color: #E1769C;
-    border-color: #E1769C;
-    color: #fff;
+    background-color: #D89A9E;
+    border-color: #D89A9E;
+    color: #F9F4F5;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-    background-color: rgb(255, 36, 36);
-    border-color: rgb(255, 36, 36);
+    background-color: rgb(150, 150, 150);
+    border-color: rgb(150, 150, 150);
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus,
